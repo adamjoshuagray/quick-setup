@@ -38,7 +38,8 @@ sudo apt-get install -y \
        tig\
        cloc\
        newsbeuter\
-       lftp
+       lftp\
+       cifs-utils
 
 
 # Change the login shell
